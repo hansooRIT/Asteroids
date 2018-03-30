@@ -1,0 +1,43 @@
+Initialize engine version: 5.2.5f1 (ad2d0368e248)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.111 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\HanSoo\Desktop\Work\Sophomore Year\IGME 202 - Interactive Media Design\Asteroids\Lee_Asteroids_Build\Lee_AsteroidsExe_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.188732 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.278403 ms (FindLiveObjects: 0.023093 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.227939 ms  DeleteObjects: 0.011546 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.063149 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.304062 ms (FindLiveObjects: 0.026514 ms CreateObjectMapping: 0.018816 ms MarkObjects: 0.247611 ms  DeleteObjects: 0.010691 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.691089 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 1.336420 ms (FindLiveObjects: 0.121881 ms CreateObjectMapping: 0.082109 ms MarkObjects: 1.073412 ms  DeleteObjects: 0.053456 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f7c -> priority: 1 
